@@ -68,8 +68,8 @@ page_sections:
     new issue</a> with appropriate label. For other things, please send an Email to<a
     href="mailto:yeahdongcn@gmail.com">yeahdongcn@gmail.com</a>
   col_4: 'Nautilus Desktop uses a number of open source projects to work properly:
-    <a href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure and
-    reliable software update framework for Cocoa developers. <a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
+    <br><a href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure
+    and reliable software update framework for Cocoa developers. <a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
     - A sample project that demonstrates how to move a running Mac OS X application
     to the Applications folder. <a href="https://github.com/chrenn/LoginItemKit">LoginItemKit</a>
     - A simple Swift package to add non-sandboxed macOS applications to user login
