@@ -21,7 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <br><strong>Desktop</strong>
-  content: The tool that allows you to do basic management of <a href="https://github.com/VMwareFusion/nautilus"
+  content: A free tool that allows you to do basic management of <a href="https://github.com/VMwareFusion/nautilus"
     title="">vctl container engine</a> on macOS for running containers and Kubernetes
     clusters.
   cta:
@@ -42,16 +42,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: <strong>Customize Blocks</strong><span class="light">&nbsp;to make quick
-    edits throughout your new site</span>
-  content: Each block comes with custom Front Matter that can easily be edited in
-    Forestry's UI.
-  media:
-    image: "/uploads/2018/06/21/edit.gif"
-    alt_text: Customize Blocks
 - template: 3-column-text
   block: three-column-1
   col_1:
