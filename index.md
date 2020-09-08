@@ -21,8 +21,9 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <br><strong>Desktop</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: The tool that allows you to do basic management of <a href="https://github.com/VMwareFusion/nautilus"
+    title="">vctl container engine</a> on macOS for running containers and Kubernetes
+    clusters.
   cta:
     enabled: true
     url: https://github.com/yeahdongcn/NautilusUI
