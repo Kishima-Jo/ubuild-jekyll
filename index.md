@@ -61,7 +61,7 @@ page_sections:
     on the first run.</p></li></ol>'
 - template: 4-column-footer
   block: footer-2
-  image: "/uploads/2020/09/08/appstore-512pt-1x.png"
+  image: "/uploads/2020/09/08/logo002.png"
   col_2: It is brought to you by <a href="https://github.com/Kishima-Jo">Kishima-Jo</a>
     (designer) and <a href="https://github.com/yeahdongcn">R0CKSTAR</a> (developer).
   col_3: For feature requests and bug reports, please add <a href="https://github.com/yeahdongcn/yeahdongcn.github.io/issues/new">a
