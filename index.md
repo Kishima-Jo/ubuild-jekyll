@@ -60,7 +60,7 @@ page_sections:
     on the first run.</p></li></ol>'
 - template: 4-column-footer
   block: footer-2
-  image: ''
+  image: "/uploads/2020/09/08/appstore-512pt-1x.png"
   col_2: ''
   col_3: ''
   col_4: ''
