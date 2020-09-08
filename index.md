@@ -25,7 +25,7 @@ page_sections:
     content manager.
   cta:
     enabled: true
-    url: https://github.com/forestryio/ubuild-jekyll
+    url: https://github.com/yeahdongcn/NautilusUI
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2020/09/08/banner-image-2x.png"
