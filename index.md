@@ -37,10 +37,11 @@ page_sections:
   col_1:
     headline: Easy access
     content: Handy management of vctl container engine through UI &amp; Touch Bar.
-      <br>Configure your virtual machines hosting containers and Kubernetes cluster
-      without CLI.
+      <br>Configure your virtual machines for containers and Kubernetes cluster without
+      CLI.
   col_2:
-    content: Currently support English &amp; Simplified Chinese.
+    content: Currently support English &amp; Simplified Chinese. More languages are
+      underway.
     headline: Multi-language support
   col_3:
     headline: Light & Free
