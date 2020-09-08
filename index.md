@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "#Easy access"
     link_text: Features
-  - link: "#pricing"
+  - link: "#How to Installation"
     link_text: Pricing
   - link: "#team"
     link_text: Team
