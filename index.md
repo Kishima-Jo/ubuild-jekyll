@@ -50,6 +50,14 @@ page_sections:
   block: media-1
   image: "/uploads/2020/09/08/banner-bg-1x.png"
   caption: All Available Blocks
+- template: detail-content
+  block: text-1
+  headline: Installation
+  content: '<ol><li><p>Download and unzip the latest release: <a href="http://x.com/"
+    target="_blank">X</a></p></li><li><p><code>Nautilus Desktop.app</code> is signed
+    with the <code>Apple Development</code> certificate, so to allow <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac"
+    target="_blank">Opening a Mac app from an unidentified developer</a> is required
+    on the first run.</p></li></ol>'
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -60,17 +68,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: detail-content
-  block: text-1
-  headline: Installation
-  content: <p>uBuild is an open-source Jekyll based theme that doubles as a builder
-    tool inside the Forestry content manager. It's easy to get started!</p><ol><li><p>Fork
-    the <a href="https://github.com/forestryio/ubuild-jekyll">repo</a> and import
-    the site into <a href="https://forestry.io/">Forestry</a> (or use <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks#even-quicker-start">our
-    magic button</a>).</p></li><li><p>Click on 'Add New' in Forestry and select the
-    Page-Builder template.</p></li><li><p>Add and customize the available Blocks and
-    preview them as you go along.</p></li><li><p>Read <a href="https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/">our
-    article</a> and create your own Blocks.</p></li></ol>
 - template: 1-column-text
   block: one-column-1
   headline: 16 Fully Responsive Design Blocks
