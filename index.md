@@ -61,9 +61,19 @@ page_sections:
 - template: 4-column-footer
   block: footer-2
   image: "/uploads/2020/09/08/appstore-512pt-1x.png"
-  col_2: ''
-  col_3: ''
-  col_4: ''
+  col_2: It is brought to you by <a href="https://github.com/Kishima-Jo">Kishima-Jo</a>
+    (designer) and <a href="https://github.com/yeahdongcn">R0CKSTAR</a> (developer).
+  col_3: For feature requests and bug reports, please add <a href="https://github.com/yeahdongcn/yeahdongcn.github.io/issues/new">a
+    new issue</a> with appropriate label. For other things, please send an Email to<a
+    href="mailto:yeahdongcn@gmail.com">yeahdongcn@gmail.com</a>
+  col_4: Nautilus Desktop uses a number of open source projects to work properly:<a
+    href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure and reliable
+    software update framework for Cocoa developers.<a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
+    - A sample project that demonstrates how to move a running Mac OS X application
+    to the Applications folder.<a href="https://github.com/chrenn/LoginItemKit">LoginItemKit</a>
+    - A simple Swift package to add non-sandboxed macOS applications to user login
+    items.<a href="https://github.com/jpsim/Yams">Yams</a> - A sweet and swifty <a
+    href="http://yaml.org/">YAML</a> parser built on <a href="https://github.com/yaml/libyaml">LibYAML</a>.
 - template: content-feature
   block: feature-1
   media_alignment: Left
