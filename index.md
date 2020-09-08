@@ -48,7 +48,7 @@ page_sections:
     content: It's light and it's free.
 - template: full-width-media-element
   block: media-1
-  image: "/uploads/2020/09/08/screenshots-1x.png"
+  image: "/uploads/2020/09/08/banner-bg-1x.png"
   caption: All Available Blocks
 - template: content-feature
   block: feature-1
