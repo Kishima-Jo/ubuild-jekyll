@@ -23,7 +23,7 @@ page_sections:
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <strong>Desktop</strong>
   content: '<br>A free tool that allows you to do basic management of <a href="https://github.com/VMwareFusion/nautilus"
     title="">vctl container engine</a> on macOS for running containers and Kubernetes
-    clusters.<br>  '
+    clusters.<br>     '
   cta:
     enabled: true
     url: https://github.com/yeahdongcn/NautilusUI
