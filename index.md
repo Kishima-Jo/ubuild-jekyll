@@ -32,6 +32,19 @@ page_sections:
     image: "/uploads/2020/09/08/banner-image-2x.png"
     alt_text: Product Shot
   background_image: "/uploads/2020/09/08/banner-bg-1x.png"
+- template: 3-column-text
+  block: three-column-1
+  col_1:
+    headline: Easy access
+    content: Handy management of vctl container engine through UI &amp; Touch Bar.
+      <br>Configure your virtual machines hosting containers and Kubernetes cluster
+      without CLI.
+  col_2:
+    content: Currently support English &amp; Simplified Chinese.
+    headline: Multi-language support
+  col_3:
+    headline: Light & Free
+    content: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -42,17 +55,6 @@ page_sections:
   media:
     image: "/uploads/2018/06/21/blocks-split.png"
     alt_text: uBuild Blocks Mock-Up
-- template: 3-column-text
-  block: three-column-1
-  col_1:
-    headline: ''
-    content: ''
-  col_2:
-    headline: ''
-    content: ''
-  col_3:
-    headline: ''
-    content: ''
 - template: detail-content
   block: text-1
   headline: Installation
