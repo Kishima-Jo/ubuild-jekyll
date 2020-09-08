@@ -52,7 +52,7 @@ page_sections:
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: Installation
+  headline: How to Installation
   content: '<ol><li><p>Download and unzip the latest release: <a href="http://x.com/"
     target="_blank">X</a></p></li><li><p><code>Nautilus Desktop.app</code> is signed
     with the <code>Apple Development</code> certificate, so to allow <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac"
