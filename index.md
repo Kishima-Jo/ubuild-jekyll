@@ -58,6 +58,12 @@ page_sections:
     with the <code>Apple Development</code> certificate, so to allow <a href="https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac"
     target="_blank">Opening a Mac app from an unidentified developer</a> is required
     on the first run.</p></li></ol>'
+- template: 4-column-footer
+  block: footer-2
+  image: ''
+  col_2: ''
+  col_3: ''
+  col_4: ''
 - template: content-feature
   block: feature-1
   media_alignment: Left
