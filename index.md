@@ -67,14 +67,14 @@ page_sections:
   col_3: For feature requests and bug reports, please add <a href="https://github.com/yeahdongcn/yeahdongcn.github.io/issues/new">a
     new issue</a> with appropriate label. For other things, please send an Email to<a
     href="mailto:yeahdongcn@gmail.com">yeahdongcn@gmail.com</a>
-  col_4: Nautilus Desktop uses a number of open source projects to work properly:<a
-    href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure and reliable
-    software update framework for Cocoa developers.<a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
+  col_4: 'Nautilus Desktop uses a number of open source projects to work properly:
+    <a href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure and
+    reliable software update framework for Cocoa developers. <a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
     - A sample project that demonstrates how to move a running Mac OS X application
-    to the Applications folder.<a href="https://github.com/chrenn/LoginItemKit">LoginItemKit</a>
+    to the Applications folder. <a href="https://github.com/chrenn/LoginItemKit">LoginItemKit</a>
     - A simple Swift package to add non-sandboxed macOS applications to user login
     items.<a href="https://github.com/jpsim/Yams">Yams</a> - A sweet and swifty <a
-    href="http://yaml.org/">YAML</a> parser built on <a href="https://github.com/yaml/libyaml">LibYAML</a>.
+    href="http://yaml.org/">YAML</a> parser built on <a href="https://github.com/yaml/libyaml">LibYAML</a>.'
 - template: simple-footer
   block: footer-1
   content: ''
