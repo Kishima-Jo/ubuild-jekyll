@@ -46,6 +46,10 @@ page_sections:
   col_3:
     headline: Light & Free
     content: It's light and it's free.
+- template: full-width-media-element
+  block: media-1
+  image: "/uploads/2020/09/08/banner-bg-1x.png"
+  caption: All Available Blocks
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -73,10 +77,6 @@ page_sections:
   content: "The Design Blocks can be used without Forestry but to harness the power
     of Blocks we recommend using Forestry. Once the site is imported you can immediately
     create new sites and make them fully customizable. \U0001F447"
-- template: full-width-media-element
-  block: media-1
-  image: "/uploads/2020/09/08/banner-bg-1x.png"
-  caption: All Available Blocks
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
