@@ -45,7 +45,7 @@ page_sections:
     headline: Multi-language support
   col_3:
     headline: Light & Free
-    content: ''
+    content: It's light and it's free.
 - template: content-feature
   block: feature-1
   media_alignment: Left
