@@ -45,7 +45,7 @@ page_sections:
   caption: All Available Blocks
 - template: detail-content
   block: text-1
-  headline: How to Installation
+  headline: How to Install
   content: '<ol><li><p>Nautilus Desktop requires macOS 10.15 to run.</p></li><li><p>Download
     and unzip the latest release: <a href="http://x.com/" target="_blank">X</a></p></li><li><p><code>Nautilus
     Desktop.app</code> is signed with the <code>Apple Development</code> certificate,
