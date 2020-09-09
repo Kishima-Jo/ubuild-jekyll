@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "#Home"
     link_text: Home
-  - link: "#3-colum-text"
+  - link: "#3-column-text"
     link_text: feature
 - template: hero-banner-w-image
   block: hero-2
