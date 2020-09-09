@@ -24,7 +24,7 @@ page_sections:
     button_text: 'See on GitHub '
   image:
     image: "/uploads/2020/09/08/banner-image-2x.png"
-    alt_text: Product Shot
+    alt_text: Nautilus Desktop
   background_image: "/uploads/2020/09/08/banner-bg-1x.png"
 - template: 3-column-text
   block: three-column-1
