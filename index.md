@@ -61,16 +61,10 @@ page_sections:
     new issue</a> with appropriate label. For other things, please send an Email to<a
     href="mailto:yeahdongcn@gmail.com">yeahdongcn@gmail.com</a>
   col_4: 'Nautilus Desktop uses a number of open-source projects to work properly:
-    <br><a href="https://github.com/sparkle-project/Sparkle">Sparkle</a> - Secure
-    and reliable software update framework for Cocoa developers. <br><a href="https://github.com/potionfactory/LetsMove">LetsMove</a>
-    - A sample project that demonstrates how to move a running Mac OS X application
-    to the Applications folder. <br><a href="https://github.com/chrenn/LoginItemKit">LoginItemKit</a>
-    - A simple Swift package to add non-sandboxed macOS applications to user login
-    items.<br><a href="https://github.com/jpsim/Yams">Yams</a> - A sweet and swifty
-    <a href="http://yaml.org/">YAML</a> parser built on <a href="https://github.com/yaml/libyaml">LibYAML</a>.'
-- template: simple-footer
-  block: footer-1
-  content: ''
+    <br><a href="https://github.com/sparkle-project/Sparkle" target="_blank">Sparkle</a>
+    ｜<a href="https://github.com/potionfactory/LetsMove" target="_blank">LetsMove</a>
+    ｜ <a href="https://github.com/chrenn/LoginItemKit" target="_blank">LoginItemKit</a>
+    ｜ <a href="https://github.com/jpsim/Yams" target="_blank">Yams</a>'
 menu:
   main:
     weight: 2
