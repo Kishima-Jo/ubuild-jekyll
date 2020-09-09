@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#"
+  - link: "#Features"
     link_text: Features
   - link: "#How to Installation"
     link_text: Pricing
@@ -32,6 +32,14 @@ page_sections:
     image: "/uploads/2020/09/08/banner-image-2x.png"
     alt_text: Product Shot
   background_image: "/uploads/2020/09/08/banner-bg-1x.png"
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
