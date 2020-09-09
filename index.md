@@ -9,6 +9,8 @@ page_sections:
   navigation:
   - link: "#Home"
     link_text: Home
+  - link: "#features"
+    link_text: featyre
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <strong>Desktop</strong>
@@ -69,6 +71,14 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
 menu:
   main:
     weight: 2
