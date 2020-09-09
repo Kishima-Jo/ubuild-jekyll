@@ -14,9 +14,10 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <strong>Desktop</strong>
-  content: 'A free tool that allows you to do basic management of <a href="https://github.com/VMwareFusion/nautilus"
-    title="">vctl container engine</a> on macOS for running containers and Kubernetes
-    clusters.<br>     '
+  content: A free tool that allows you to do basic management of <br><span class="tagnamecolor">&lt;p
+    style="color:yellow;"&gt;</span><a href="https://github.com/VMwareFusion/nautilus"
+    title="" target="_blank">vctl container engine</a>&lt;p&gt; on macOS for running
+    containers and Kubernetes clusters.<br>
   cta:
     enabled: true
     url: https://github.com/yeahdongcn/NautilusUI
@@ -71,14 +72,6 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 menu:
   main:
     weight: 2
