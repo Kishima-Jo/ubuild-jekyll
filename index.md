@@ -9,8 +9,6 @@ page_sections:
   navigation:
   - link: "#Home"
     link_text: Home
-  - link: "#3-column-text"
-    link_text: feature
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <strong>Desktop</strong>
