@@ -3,21 +3,12 @@ layout: blocks
 title: Nautilus Desktop
 date: 2017-11-22 23:00:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
+- template: navigation-header
+  block: header-1
   logo: "/uploads/2020/09/08/logo002.png"
   navigation:
-  - link: "/"
+  - link: "#Home"
     link_text: Home
-  - link: "#Features"
-    link_text: Features
-  - link: "#How to Installation"
-    link_text: Pricing
-  - link: "#team"
-    link_text: Team
-  cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
 - template: hero-banner-w-image
   block: hero-2
   headline: <img src="/uploads/2020/09/08/logo-32pt-2x.png"><br>Nautilus <strong>Desktop</strong>
@@ -32,14 +23,6 @@ page_sections:
     image: "/uploads/2020/09/08/banner-image-2x.png"
     alt_text: Product Shot
   background_image: "/uploads/2020/09/08/banner-bg-1x.png"
-- template: content-feature
-  block: feature-1
-  media_alignment: Right
-  headline: ''
-  content: ''
-  media:
-    image: ''
-    alt_text: ''
 - template: 3-column-text
   block: three-column-1
   col_1:
