@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "#Easy access"
+  - link: "#"
     link_text: Features
   - link: "#How to Installation"
     link_text: Pricing
